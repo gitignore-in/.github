@@ -1,0 +1,12 @@
+schema_version: 1
+repo: gitignore-in/.github
+categories:
+  audit-edge-cases:
+    last_checked_at: 2026-05-23T00:38:00+09:00
+    last_checked_target_commit: d9017c51e7a6e7e7ff94043a6aef0e05e529bc68
+    last_checked_basis_commit: eddbce18feed0537db24b5848651f5db59463d44
+    last_run_by:
+      type: agent
+      agent: codex
+      model: gpt-5.5-extra-high
+      context: automation-issue-loop
